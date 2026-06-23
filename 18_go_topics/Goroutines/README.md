@@ -97,6 +97,4 @@ You should aim to be able to:
 * optimize it,
 * and discuss tradeoffs.
 
-That is the actual L5 bar.
-
 ---
